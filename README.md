@@ -17,7 +17,7 @@ Check out my YouTube channel for step-by-step explanations and tutorials:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/omarsaidkamel/Flutter_Course.git
 Navigate to the project directory:
 bash
 Copy code
