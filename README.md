@@ -34,6 +34,6 @@ flutter run
 If you find issues or want to improve the code, feel free to submit a pull request or open an issue.
 
 📬 Stay Connected
-🔗 GitHub: [Your Profile] (https://github.com/omarsaidkamel)
+🔗 GitHub: [My Profile] (https://github.com/omarsaidkamel)
 📧 Contact: osk09876@gmail.com
 Happy coding! 🚀🎨
